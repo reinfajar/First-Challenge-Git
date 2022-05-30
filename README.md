@@ -2,6 +2,7 @@
 
 > Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
 
+
 ## Latar Belakang
 
 > Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
